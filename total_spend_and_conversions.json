@@ -1,0 +1,21 @@
+[{
+  "campaign_name": "black friday",
+  "total_spend": "315760.85",
+  "total_conversions": "1507"
+}, {
+  "campaign_name": "summer promo",
+  "total_spend": "368410.78",
+  "total_conversions": "1398"
+}, {
+  "campaign_name": "back to school",
+  "total_spend": "368829.95",
+  "total_conversions": "1491"
+}, {
+  "campaign_name": "winter sale",
+  "total_spend": "353135.58",
+  "total_conversions": "1391"
+}, {
+  "campaign_name": "holiday discount",
+  "total_spend": "303513.37",
+  "total_conversions": "1362"
+}]

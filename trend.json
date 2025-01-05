@@ -1,0 +1,41 @@
+[{
+  "campaign_id": "1",
+  "total_spend_first_half": "187448.61",
+  "total_spend_second_half": "180962.17",
+  "total_conversions_first_half": "799",
+  "total_conversions_second_half": "599",
+  "spend_comparison": "-0.035",
+  "conversions_comparison": "-0.25"
+}, {
+  "campaign_id": "2",
+  "total_spend_first_half": "176045.9",
+  "total_spend_second_half": "177089.68",
+  "total_conversions_first_half": "694",
+  "total_conversions_second_half": "697",
+  "spend_comparison": "0.006",
+  "conversions_comparison": "0.004"
+}, {
+  "campaign_id": "3",
+  "total_spend_first_half": "117743.93",
+  "total_spend_second_half": "185769.44",
+  "total_conversions_first_half": "773",
+  "total_conversions_second_half": "589",
+  "spend_comparison": "0.578",
+  "conversions_comparison": "-0.238"
+}, {
+  "campaign_id": "4",
+  "total_spend_first_half": "186895.74",
+  "total_spend_second_half": "181934.21",
+  "total_conversions_first_half": "750",
+  "total_conversions_second_half": "741",
+  "spend_comparison": "-0.027",
+  "conversions_comparison": "-0.012"
+}, {
+  "campaign_id": "5",
+  "total_spend_first_half": "153010.37",
+  "total_spend_second_half": "162750.48",
+  "total_conversions_first_half": "852",
+  "total_conversions_second_half": "655",
+  "spend_comparison": "0.064",
+  "conversions_comparison": "-0.231"
+}]

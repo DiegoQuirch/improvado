@@ -1,0 +1,10 @@
+version: 1
+
+sources:
+  - name: raw
+    database: improvado-hw-446913 
+    schema: improvado  
+    tables:
+      - name: raw_campaigns 
+      - name: raw_conversions  
+      - name: raw_ad_spend

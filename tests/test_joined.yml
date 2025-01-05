@@ -1,0 +1,22 @@
+version: 2
+ # Tests for the joined model
+models:
+  - name: fct_campaign_performance
+    description: "This model aggregates the campaign performance data."
+    tests:
+      # Not null tests
+      - not_null:
+          column_name: spend
+      - not_null:
+          column_name: conversions
+      - not_null:
+          column_name: campaign_id
+      - not_null:
+          column_name: date
+      # Relationship test    
+    columns:
+      - name: campaign_id
+        tests:
+          - relationships:
+              to: ref('dim_campaigns')
+              field: campaign_id

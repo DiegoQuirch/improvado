@@ -1,0 +1,15 @@
+version: 2
+ # Tests for the dim_campaigns model
+models:
+  - name: dim_campaigns
+    description: "This model contains campaign information."
+    tests:
+      ### Unique test for campaign_id
+      - unique:
+          column_name: campaign_id
+
+      ### Not null tests
+      - not_null:
+          column_name: campaign_name
+      - not_null:
+          column_name: campaign_id
