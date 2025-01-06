@@ -7,6 +7,9 @@ Key findings include:
 - Identification of high-performing campaigns and channels.
 - Analysis of underperforming campaigns to optimize future strategies.
 
+Summary And recommendations: [Campaign Performance Summary](https://raw.githubusercontent.com/DiegoQuirch/improvado/main/Campaign%20Performance%20Summary.docx)
+
+
 ---
 
 ## **Getting Started**
@@ -98,7 +101,7 @@ The project uses the following data sources:
 
 
 ## **Results**
-Total spend and conversion per campaign (results in total_spend_and_conversions.csv)
+Total spend and conversion per campaign (results in [total_spend_and_conversions.csv](https://raw.githubusercontent.com/DiegoQuirch/improvado/main/total_spend_and_conversions.csv))
 
 Code used:
 ```sql
@@ -127,7 +130,7 @@ LEFT JOIN
 ON
   camp.campaign_id = perf.campaign_id
 ```
-Channel with highest ROAS (result in highest_roas.csv)
+Channel with highest ROAS (result in [highest_roas.csv](https://raw.githubusercontent.com/DiegoQuirch/improvado/main/highest_roas.csv))
 
 Code used:
 ```sql
@@ -161,7 +164,7 @@ LIMIT
   1
 ```
 
-Trend analysis (results in trends.csv).
+Trend analysis (results in [trend.csv](https://raw.githubusercontent.com/DiegoQuirch/improvado/main/trend.csv))
 
 Code used:
 ```sql
