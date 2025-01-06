@@ -99,6 +99,9 @@ The project uses the following data sources:
 
 *raw_campaigns*: Contains metadata about campaigns (e.g., names, channels).
 
+## **Looker screenshot**
+
+![BI Screen](https://raw.githubusercontent.com/DiegoQuirch/improvado/main/BI_screen.jpg)
 
 ## **Results**
 Total spend and conversion per campaign (results in [total_spend_and_conversions.csv](https://raw.githubusercontent.com/DiegoQuirch/improvado/main/total_spend_and_conversions.csv))
