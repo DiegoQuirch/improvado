@@ -1,7 +1,7 @@
 # **Campaign Performance Analysis with dbt**
 
 ## **Project Overview**
-This project analyzes advertising campaign performance data using dbt (Data Build Tool). The analysis focuses on metrics such as spend, conversions, and Return on Ad Spend (ROAS) to provide actionable insights and recommendations.
+This project analyzes advertising campaign performance data using dbt (Data Build Tool). The analysis focuses on metrics such as spend, conversions, and Return on Ad Spend (ROAS) to provide actionable insights and recommendations. Codes used on the analisis are listed at the bottom.
 
 Key findings include:
 - Identification of high-performing campaigns and channels.
